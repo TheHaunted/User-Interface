@@ -64,3 +64,72 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav a {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+nav {
+	display: inline-block;
+}
+
+.logo {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+#roundimg {
+
+}
+
+#innovation {
+	font-size: 400%;
+	text-align: center;
+}
+
+#header-left {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+button {
+
+}
+
+section {
+	display: inline-block;
+}
+
+#content {
+
+}
+
+#features {
+	display: inline-block;
+	width: 40%;
+}
+
+#about {
+	display: inline-block;
+	width: 40%;
+}
+
+#services {
+	display: inline-block;
+	width: 25%;
+}
+
+#product {
+	display: inline-block;
+	width: 25%;
+}
+
+#vision {
+	display: inline-block;
+	width: 25%;
+}
+
+.middle-img {
+	display: block;
+}
